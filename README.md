@@ -1,4 +1,4 @@
 thin_manager
 ============
 
-Control script for cluster of thin servers inn Windows environment.
+Control script for cluster of thin servers in Windows environment.
